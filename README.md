@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./public/icon.png" alt="Finances Logo" width="120" />
+</p>
+
 # Finances — Gestão Financeira Pessoal (v1.0)
 
 Aplicação web moderna de controle financeiro pessoal construída com **Next.js (App Router)**, **TypeScript**, **Tailwind CSS** e **Recharts**. Projetada para conciliar em uma única interface a visão real de **Fluxo de Caixa** (conta corrente/PIX) e o **Regime de Competência** (cartões de crédito, datas de fechamento e parcelamentos).

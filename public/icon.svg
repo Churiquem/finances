@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="financesGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="#09090b" />
+  <circle cx="256" cy="256" r="180" fill="url(#financesGrad)" opacity="0.15" />
+  <path d="M160 352V280M256 352V200M352 352V160" stroke="url(#financesGrad)" stroke-width="36" stroke-linecap="round" />
+  <circle cx="160" cy="240" r="18" fill="#10B981" />
+  <circle cx="256" cy="160" r="18" fill="#10B981" />
+  <circle cx="352" cy="120" r="18" fill="#34D399" />
+  <path d="M160 240 L256 160 L352 120" stroke="#34D399" stroke-width="12" stroke-dasharray="8 8" fill="none" opacity="0.8" />
+</svg>
